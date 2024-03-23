@@ -27,7 +27,11 @@ The repository includes pre-trained models (encoder and decoder) that can be rea
 While this project primarily focuses on English to French translation, the underlying principles and architecture can be generalized to a wide range of language translation tasks.
 
 ## Dataset Source
-The dataset used in this project is available [here](insert_dataset_link).
+The dataset used in this project is available [here](https://www.kaggle.com/datasets/dhruvildave/en-fr-translation-dataset).
+
+## Reference 
+https://medium.com/@eugenesh4work/attention-mechanism-for-lstm-used-in-a-sequence-to-sequence-task-be1d54919876
+https://www.kaggle.com/code/asemsaber/english2french-nmt-tf-seq2seq-attention
 
 ## Requirements
 
