@@ -37,4 +37,4 @@ https://www.kaggle.com/code/asemsaber/english2french-nmt-tf-seq2seq-attention
 
 - Python (>=3.6)
 - PyTorch
-- Other dependencies (specified in requirements.txt)
+  
