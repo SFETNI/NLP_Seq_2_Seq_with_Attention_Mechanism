@@ -12,7 +12,7 @@ The training for this model was conducted on High-Performance Computing (HPC) en
 
 ### Dataset
 
-The training dataset utilized in this project is an English to French translation dataset. Despite encountering overfitting issues during training, the primary objective remains to showcase the attention mechanism's effectiveness in capturing sequence dependencies.
+The training dataset utilized in this project is an English to French translation dataset. Despite encountering overfitting issues during training (it is recommemded to try other datasets to fix this issue and consider this tutorial as comprehensive),  so the primary objective remains to showcase the attention mechanism's effectiveness in capturing sequence dependencies.
 
 ## Model Overview
 
