@@ -22,9 +22,14 @@ The sequence-to-sequence model architecture employed in this project consists of
 
 The repository includes pre-trained models (encoder and decoder) that can be readily applied for English to French translation tasks. Moreover, the framework is highly adaptable and can be extended to accommodate other datasets, languages, and tasks. Users can experiment with increasing model complexity by adding additional encoder and decoder layers or incorporating advanced techniques.
 
-### Note
+### Notes
 
 While this project primarily focuses on English to French translation, the underlying principles and architecture can be generalized to a wide range of language translation tasks.
+
+### Saved models 
+
+the encoder is uploaded here, while the decoder could be downloaded through this link, due to filesize limits:
+https://www.mediafire.com/file/s2xa013nt1rrkac/decoder.zip/file
 
 ## Dataset Source
 The dataset used in this project is available [here](https://www.kaggle.com/datasets/dhruvildave/en-fr-translation-dataset).
